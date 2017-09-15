@@ -2,6 +2,18 @@
 
 Java hadoop client that provides convenients api for file management and interaction with hadoop file system
 
+# Install
+
+Add the following dependency to your pom file:
+
+```xml
+<dependency>
+    <groupId>com.github.chen0040</groupId>
+    <artifactId>java-hdfs-client</artifactId>
+    <version>1.0.1</version>
+</dependency>
+```
+
 # Usage
 
 To copy local file to hdfs:
